@@ -20,3 +20,5 @@ Java 11 · REST Assured · JUnit 5 · Allure · Maven
 - **Allure** reports with request/response logging
 
 ## Run tests
+mvn clean test
+mvn allure:serve
